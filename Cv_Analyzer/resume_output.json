@@ -1,0 +1,192 @@
+{
+  "resume_id": "resume_001",
+  "candidate": {
+    "name": "MAHMOUD AHMED",
+    "email": "mahmoudtxxxxxx@gmail.com",
+    "phone": "01556776",
+    "location": "Cairo",
+    "linkedin": "linkedin.com/in/mahmoud-tarek",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "AI & Machine Learning Trainee at ITI with hands-on experience building ML models from scratch using Python. Currently completing the Microsoft Data Engineering track through DEPI, developing practical expertise in SQL, database design, and ETL pipelines. Experienced in data preprocessing, feature engineering, exploratory data analysis, and predictive modeling on real-world datasets.",
+  "education": [
+    {
+      "degree": "bachelor's",
+      "institution": null,
+      "field": "computer science, building a strong foundation in programming, data structures, discrete mathematics, and linear algebra. Actively applying coursework through hands-on AI/ML training at ITI and the Data Engineering track at DEPI.",
+      "start_date": "2025",
+      "end_date": "Present",
+      "gpa": null
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Data Engineering Track",
+      "company": "DEPI",
+      "location": null,
+      "start_date": "08/2026",
+      "end_date": "Present",
+      "description": [
+        "Undertook intensive Microsoft Data Engineering training focused on database design, data modeling, and modern data architecture.",
+        "Developed hands-on experience querying, structuring, and manipulating relational databases using advanced SQL.",
+        "Designed and built scalable ETL pipelines to automate data extraction, transformation, and loading across distinct storage environments."
+      ],
+      "technologies": []
+    },
+    {
+      "job_title": "AI & Machine Learning Trainee",
+      "company": "ITI",
+      "location": null,
+      "start_date": "07/2026",
+      "end_date": "08/2026",
+      "description": [
+        "Completed specialized training in core AI principles, supervised and unsupervised machine learning techniques, and deep learning architectures.",
+        "Implemented fundamental machine learning algorithms from scratch using Python without reliance on high-level ML libraries.",
+        "Performed end-to-end data preprocessing, exploratory data analysis (EDA), feature engineering, and model evaluation on real-world datasets."
+      ],
+      "technologies": []
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Feature Engineering",
+      "Data Preprocessing",
+      "ETL Pipelines",
+      "Git",
+      "GitHub",
+      "Jupyter Notebook",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Database Design"
+    ],
+    "soft": []
+  },
+  "projects": [
+    {
+      "name": "Car Price Prediction",
+      "description": [
+        "Engineered a Ridge Regression model from scratch using linear algebra and normal equations without external ML libraries.",
+        "Cleaned and scaled 10,000+ vehicle records, optimizing data preprocessing steps to reduce evaluation variance."
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-Learn",
+        "NumPy"
+      ],
+      "url": null
+    },
+    {
+      "name": "Credit Card Fraud Detection",
+      "description": [
+        "Built a custom Logistic Regression classifier with gradient descent optimization to process imbalanced transaction datasets.",
+        "Evaluated performance using Precision, Recall, and ROC-AUC metrics to minimize false negative rates."
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-Learn"
+      ],
+      "url": null
+    },
+    {
+      "name": "Customer Segmentation",
+      "description": [
+        "Applied Principal Component Analysis (PCA) for dimensionality reduction and K-Means clustering to analyze behavioral patterns.",
+        "Standardized feature sets to group high-value customers into distinct target segments."
+      ],
+      "technologies": [
+        "Python",
+        "PCA",
+        "K-Means"
+      ],
+      "url": null
+    },
+    {
+      "name": "Food Delivery Time Prediction",
+      "description": [
+        "Developed an end-to-end predictive pipeline for a competitive ML dataset, handling missing values, encoding, and hyperparameter tuning."
+      ],
+      "technologies": [
+        "Python",
+        "Machine Learning Pipeline"
+      ],
+      "url": null
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Arabic",
+      "proficiency": null
+    },
+    {
+      "language": "English",
+      "proficiency": null
+    }
+  ],
+  "career": {
+    "job_titles": [
+      "Data Engineering Track",
+      "AI & Machine Learning Trainee"
+    ],
+    "years_of_experience": 0
+  },
+  "quality": {
+    "completeness": 100,
+    "readability": 90,
+    "structure": 90,
+    "formatting_issues": []
+  },
+  "interview_context": {
+    "projects": [
+      "Car Price Prediction",
+      "Credit Card Fraud Detection",
+      "Customer Segmentation",
+      "Food Delivery Time Prediction"
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Feature Engineering",
+      "Data Preprocessing",
+      "ETL Pipelines",
+      "Git",
+      "GitHub",
+      "Jupyter Notebook",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Database Design",
+      "PCA",
+      "K-Means",
+      "Machine Learning Pipeline"
+    ],
+    "experience_topics": [
+      "Data Engineering Track",
+      "Data Engineering",
+      "Database",
+      "SQL",
+      "ETL",
+      "AI & Machine Learning Trainee",
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Data Analysis",
+      "Feature Engineering"
+    ],
+    "claims_to_verify": []
+  }
+}
