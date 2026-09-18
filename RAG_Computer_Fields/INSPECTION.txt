@@ -1,0 +1,204 @@
+======================================================================
+QUESTION BANK INSPECTION
+======================================================================
+
+Current directory:
+C:\Users\User\RAG SYS\Question_Generation\ingestion
+
+Question Bank:
+C:\Users\User\RAG SYS\Question_Generation\knowledge_base\questions
+
+Question Bank exists:
+True
+
+Markdown files found: 40
+✓ ai_ml\computer_vision.md → 50 questions
+✓ ai_ml\deep_learning.md → 100 questions
+✓ ai_ml\llm_rag.md → 50 questions
+✓ ai_ml\machine_learning.md → 100 questions
+✓ ai_ml\nlp.md → 50 questions
+✓ backend\databases.md → 50 questions
+✓ backend\django.md → 50 questions
+✓ backend\fastapi.md → 50 questions
+✓ backend\python.md → 50 questions
+✓ backend\rest_api.md → 50 questions
+✓ behavioral\conflict.md → 50 questions
+✓ behavioral\leadership.md → 50 questions
+✓ behavioral\problem_solving.md → 50 questions
+✓ behavioral\teamwork.md → 50 questions
+✓ cloud\cloud_basics.md → 50 questions
+✓ cs_fundamentals\algorithms.md → 50 questions
+✓ cs_fundamentals\data_structures.md → 50 questions
+✓ cs_fundamentals\databases.md → 50 questions
+✓ cs_fundamentals\networking.md → 50 questions
+✓ cs_fundamentals\oop.md → 50 questions
+✓ cs_fundamentals\operating_systems.md → 50 questions
+✓ cybersecurity\Cybersecurity.md → 100 questions
+✓ data_science\data_analysis.md → 50 questions
+✓ data_science\data_science.md → 50 questions
+✓ data_science\statistics.md → 50 questions
+✓ devops\ci_cd.md → 50 questions
+✓ devops\devops_basics.md → 50 questions
+✓ devops\docker.md → 50 questions
+✓ devops\kubernetes.md → 50 questions
+✓ devops\linux.md → 50 questions
+✓ devops\monitoring.md → 50 questions
+✓ frontend\frontend_architecture.md → 50 questions
+✓ frontend\html_css.md → 50 questions
+✓ frontend\javascript.md → 50 questions
+✓ frontend\react.md → 50 questions
+✓ frontend\typescript.md → 50 questions
+✓ frontend\web_performance.md → 50 questions
+✓ hr\career.md → 50 questions
+✓ hr\general.md → 50 questions
+✓ hr\motivation.md → 50 questions
+
+======================================================================
+INSPECTION SUMMARY
+======================================================================
+
+Markdown files:        40
+Total questions:        2150
+Files with problems:     0
+Total problems:            0
+
+======================================================================
+QUESTIONS BY TRACK
+======================================================================
+ai_ml                     350
+backend                   250
+behavioral                200
+cloud                     50
+cs_fundamentals           300
+cybersecurity             100
+data_science              150
+devops                    300
+frontend                  300
+hr                        150
+
+======================================================================
+QUESTIONS BY CATEGORY
+======================================================================
+DNS                            3
+DevSecOps                      2
+algorithms                     27
+application                    3
+application_security           13
+architecture                   2
+attacks                        5
+career                         50
+ci_cd                          56
+classification                 6
+cloud                          49
+cloud_security                 1
+computer_vision                50
+conflict                       50
+containers                     9
+cryptography                   6
+data_analysis                  51
+data_preprocessing             10
+data_science                   50
+data_security                  3
+data_structures                29
+databases                      100
+deep_learning                  100
+deployment                     7
+devops_basics                  13
+dimensionality_reduction       2
+django                         50
+docker                         50
+dynamic_programming            3
+endpoint_security              2
+ensemble_learning              5
+fastapi                        50
+file systems                   2
+frontend_architecture          50
+fundamentals                   10
+general                        50
+graph_algorithms               10
+graphs                         7
+hashing                        3
+heaps                          2
+html_css                       50
+human_security                 1
+identity                       5
+incident_response              7
+javascript                     50
+kubernetes                     52
+leadership                     50
+linked_lists                   2
+linux                          49
+llm_rag                        50
+machine_learning               21
+malware                        1
+memory                         1
+memory management              9
+mlops                          5
+model_deployment               7
+model_development              1
+model_evaluation               15
+model_interpretability         3
+model_optimization             1
+model_selection                2
+model_training                 4
+monitoring                     56
+motivation                     50
+network security               2
+network_security               11
+networking                     28
+nlp                            49
+oop                            36
+operating_systems              34
+optimization                   6
+orchestration                  1
+problem_solving                50
+python                         50
+react                          50
+regression                     3
+regularization                 3
+resilience                     1
+rest_api                       50
+risk_management                1
+routing                        4
+scenarios                      6
+searching                      4
+security                       3
+security_design                3
+security_testing               1
+social_engineering             2
+software_design                14
+sorting                        7
+statistics                     50
+switching                      1
+synchronization                5
+system_design                  4
+system_security                2
+teamwork                       50
+threats                        5
+transformer_vs_rnn             1
+transport                      8
+tree_models                    1
+trees                          5
+typescript                     50
+unsupervised_learning          4
+vulnerabilities                1
+vulnerability_management       4
+web_performance                49
+web_security                   8
+
+======================================================================
+QUESTIONS BY DIFFICULTY
+======================================================================
+easy                 709
+hard                 399
+medium               1042
+
+======================================================================
+PROBLEMS FOUND
+======================================================================
+None 🎉
+
+======================================================================
+✅ QUESTION BANK PASSED INSPECTION
+2,150 questions are structurally valid.
+======================================================================
