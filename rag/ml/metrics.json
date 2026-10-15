@@ -1,0 +1,119 @@
+{
+  "dataset": {
+    "n": 300,
+    "fire": 189,
+    "no_fire": 111,
+    "fire_pct": 63.0
+  },
+  "cross_validation": [
+    {
+      "model": "logreg",
+      "cv_roc_auc": 0.989,
+      "cv_accuracy": 0.94,
+      "cv_precision": 0.9724,
+      "cv_recall": 0.9312,
+      "cv_f1": 0.9514,
+      "confusion_matrix": [
+        [
+          106,
+          5
+        ],
+        [
+          13,
+          176
+        ]
+      ]
+    },
+    {
+      "model": "random_forest",
+      "cv_roc_auc": 0.9893,
+      "cv_accuracy": 0.95,
+      "cv_precision": 0.9485,
+      "cv_recall": 0.9735,
+      "cv_f1": 0.9608,
+      "confusion_matrix": [
+        [
+          101,
+          10
+        ],
+        [
+          5,
+          184
+        ]
+      ]
+    }
+  ],
+  "selected_model": "random_forest",
+  "holdout_test": {
+    "test_size": 75,
+    "roc_auc": 0.9992,
+    "accuracy": 0.9867,
+    "report": {
+      "no_fire": {
+        "precision": 1.0,
+        "recall": 0.9642857142857143,
+        "f1-score": 0.9818181818181818,
+        "support": 28.0
+      },
+      "fire": {
+        "precision": 0.9791666666666666,
+        "recall": 1.0,
+        "f1-score": 0.9894736842105263,
+        "support": 47.0
+      },
+      "accuracy": 0.9866666666666667,
+      "macro avg": {
+        "precision": 0.9895833333333333,
+        "recall": 0.9821428571428572,
+        "f1-score": 0.9856459330143541,
+        "support": 75.0
+      },
+      "weighted avg": {
+        "precision": 0.9869444444444444,
+        "recall": 0.9866666666666667,
+        "f1-score": 0.9866156299840511,
+        "support": 75.0
+      }
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "oxygen_concentration_pct",
+      "importance": 0.3491
+    },
+    {
+      "feature": "pressure_kpa",
+      "importance": 0.0323
+    },
+    {
+      "feature": "flow_velocity_cm_s",
+      "importance": 0.0
+    },
+    {
+      "feature": "ambient_temperature_c",
+      "importance": 0.0
+    },
+    {
+      "feature": "material",
+      "importance": 0.0
+    },
+    {
+      "feature": "material_type",
+      "importance": 0.0
+    },
+    {
+      "feature": "flow_configuration",
+      "importance": 0.0
+    }
+  ],
+  "features": [
+    "oxygen_concentration_pct",
+    "pressure_kpa",
+    "flow_velocity_cm_s",
+    "ambient_temperature_c",
+    "material",
+    "material_type",
+    "flow_configuration"
+  ],
+  "artifact": "ml\\artifacts\\fire_model.joblib"
+}
